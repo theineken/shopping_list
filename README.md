@@ -12,6 +12,6 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -Werror -g -O0 main.c -o nameage
 
 ./shopping_list
 
-##
+## Notes
 
 Written as a learning exercise while studying C fundementals.
